@@ -154,8 +154,14 @@ footer a{
         margin-top: 500px;
         margin-left: -319px;
     }
+    img{
+        width: 350px;
+    }
     .target{
         width: 329px;
+    }
+    .section1{
+        text-align: center;
     }
     footer{
         width: 302px;
