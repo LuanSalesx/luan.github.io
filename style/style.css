@@ -81,6 +81,7 @@ header .logo{
     color: aliceblue;
     padding: 8px;
     border: solid 1px white;
+    cursor: pointer;
 }
 .target{
     background: linear-gradient(20deg, white, #F5961D, #F2F2F2);
