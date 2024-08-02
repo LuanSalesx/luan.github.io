@@ -23,6 +23,8 @@ header .menu .contato,
 .sobre-contato{
     padding: 10px;
     margin-right: 10px;
+    height: 100%;
+    margin-bottom: 20px;
     border: solid 2px #F5961D;
     background-color: #F5961D;
     border-radius: 5px;
