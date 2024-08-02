@@ -10,8 +10,7 @@
 
 header{
     background-color: #F2F2F2;
-    width: 1263px;
-    height:100px;
+    height: 100%;
 }
 header .menu{
     margin-top: -50px;
@@ -85,7 +84,6 @@ header .logo{
 }
 .target{
     background: linear-gradient(20deg, white, #F5961D, #F2F2F2);
-    width: 1263px;
     height: 200px;
     margin-top: -80px;
 }
@@ -100,7 +98,6 @@ img{
 
 }
 footer{
-    width: 1194px;
     text-align: center;
     padding: 35px;
     background-color: #333333;
